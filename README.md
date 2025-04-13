@@ -21,6 +21,8 @@ TJ-YouTube-Tools automates key aspects of YouTube channel management, reducing t
 ## Privacy Policy – TJ’s YouTube Tools
 [Privacy Policy](https://teejay69.github.io/TJ-YouTube-Tools/Privacy-Policy.html)
 
+https://teejay69.github.io/TJ-YouTube-Tools/Privacy-Policy.html
+
 
 This Privacy Policy explains how **TJ’s YouTube Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
 
