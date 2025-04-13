@@ -1,3 +1,5 @@
+<img src="logo.png" alt="TJ-YouTube-Tools Logo">
+
 # TJ-YouTube-Tools
 
 ### APP WILL BE PUBLISHED SOON. PUBLICATION DATE IS IN THE NEXT FEW WEEKS
