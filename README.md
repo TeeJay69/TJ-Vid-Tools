@@ -1,3 +1,6 @@
+# CODE WILL BE PUBLISHED SOON
+# PUBLICATION DATE IS IN THE NEXT FEW WEEKS
+
 ### Privacy Policy – TJ’s YouTube Tools
 This is a private application developed and used solely by the owner for personal YouTube channel management.
 No third-party user data is collected, stored, or shared.
