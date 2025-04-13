@@ -1,6 +1,6 @@
+# TJ-YouTube-Tools
 <img src="Logo.png" alt="TJ-YouTube-Tools Logo" width="120" height="120">
 
-# TJ-YouTube-Tools
 
 ### APP WILL BE PUBLISHED SOON. PUBLICATION DATE IS IN THE NEXT FEW WEEKS
 
