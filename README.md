@@ -1,7 +1,6 @@
 # TJ-YouTube-Tools
 
-## APP WILL BE PUBLISHED SOON
-## PUBLICATION DATE IS IN THE NEXT FEW WEEKS
+## APP WILL BE PUBLISHED SOON. PUBLICATION DATE IS IN THE NEXT FEW WEEKS
 
 TJ-YouTube-Tools is a Python-based toolkit designed to help YouTube channel managers streamline their workflow by automating routine tasks. With a focus on securely managing video metadata, this tool offers several powerful features to make channel management more efficient.
 
