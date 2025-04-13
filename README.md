@@ -8,14 +8,13 @@ TJ-YouTube-Tools is a Python-based toolkit designed to help YouTube channel mana
 ## Key Features
 
 - **Bulk Editing:** Quickly update video titles and descriptions across your YouTube channel. Whether you need to rename a series or adjust details on multiple uploads, TJ-YouTube-Tools makes it fast and effortless.
-- **Playlist Management:** Automatically search for specific keywords within your video metadata and manage playlists accordingly. The tool can verify whether videos are already part of a playlist and add them if they aren’t, keeping your content organized.
 - **Secure OAuth Integration:** Uses the `https://www.googleapis.com/auth/youtube.force-ssl` scope to ensure a secure connection with the YouTube Data API. This allows for safe retrieval and updates of video data, while protecting your account through industry-standard OAuth flows.
-- **Multiple Interfaces:** Choose between a command-line interface for quick tasks and a user-friendly GUI for a more interactive experience.  
+- **Interface:** User-friendly GUI for a more interactive experience.  
 - **Python-Powered:** Built entirely in Python, making it easy to integrate, customize, and extend according to your channel’s needs.
 
 ## Overview
 
-TJ-YouTube-Tools automates key aspects of YouTube channel management, reducing the manual effort required to keep your channel up-to-date. Ideal for content creators and channel managers, the tool is designed to enhance productivity by streamlining the process of editing video information and organizing playlists—so you can focus more on creating content and less on administrative tasks.
+TJ-YouTube-Tools automates key aspects of YouTube channel management, reducing the manual effort required to keep your channel up-to-date. Ideal for content creators and channel managers, the tool is designed to enhance productivity by streamlining the process of editing video information in bulk so you can focus more on creating content and less on administrative tasks.
 
 
 ## Privacy Policy – TJ’s YouTube Tools
