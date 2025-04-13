@@ -1,5 +1,4 @@
 ### Privacy Policy – TJ’s YouTube Tools
-This is a private application developed and used solely by the owner for personal YouTube channel management.
-No third-party user data is collected, stored, or shared.
-The app uses YouTube Data API to automate metadata updates and playlist management for videos uploaded to the account of the developer.
-All API access is performed by the developer and no user-facing interface is provided.
+
+This application is developed to help YouTube channel managers automate routine metadata updates and playlist management tasks. It uses the YouTube Data API to interact with YouTube video data. The application will be made publicly available, and no third-party user data is collected, stored, or shared. All API interactions are secured, and user privacy is maintained in accordance with relevant guidelines.
+
