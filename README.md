@@ -1,4 +1,4 @@
-<img src="Logo.png" alt="TJ-YouTube-Tools Logo">
+<img src="Logo.png" alt="TJ-YouTube-Tools Logo" width="120" height="120">
 
 # TJ-YouTube-Tools
 
