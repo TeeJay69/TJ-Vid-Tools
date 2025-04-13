@@ -19,7 +19,7 @@ TJ-YouTube-Tools automates key aspects of YouTube channel management, reducing t
 
 
 ## Privacy Policy – TJ’s YouTube Tools
-[[Privacy Policy](https://github.com/TeeJay69/TJ-YouTube-Tools/blob/main/Privacy-Policy.md)\
+[Privacy Policy](https://github.com/TeeJay69/TJ-YouTube-Tools/blob/main/Privacy-Policy.md)\
 This application is developed to help YouTube channel managers automate routine metadata updates and playlist management tasks. It uses the YouTube Data API to interact with YouTube video data. The application will be made publicly available, and no third-party user data is collected, stored, or shared. All API interactions are secured, and user privacy is maintained in accordance with relevant guidelines.
 
 ## Terms of Service
