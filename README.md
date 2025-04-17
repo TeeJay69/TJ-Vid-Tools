@@ -18,13 +18,13 @@ TJ-YT-Tools is a Python-based toolkit designed to help YouTube channel managers 
 TJ-YT-Tools automates key aspects of YouTube channel management, reducing the manual effort required to keep your channel up-to-date. Ideal for content creators and channel managers, the tool is designed to enhance productivity by streamlining the process of editing video information in bulk so you can focus more on creating content and less on administrative tasks.
 
 
-## Privacy Policy – TJ’s YouTube Tools
+## Privacy Policy – TJ-YT-Tools
 [Privacy Policy](https://teejay69.github.io/TJ-YT-Tools/Privacy-Policy.html)
 
 https://teejay69.github.io/TJ-YT-Tools/Privacy-Policy.html
 
 
-This Privacy Policy explains how **TJ’s YouTube Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
+This Privacy Policy explains how **TJ-YT-Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
 
 ## 1. Data Controller
 
