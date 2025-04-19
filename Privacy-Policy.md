@@ -1,6 +1,6 @@
-# Privacy Policy – TJ-YT-Tools
+# Privacy Policy – TJ-Vid-Tools
 
-This Privacy Policy explains how **TJ-YT-Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
+This Privacy Policy explains how **TJ-Vid-Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
 
 ## 1. Data Controller
 
