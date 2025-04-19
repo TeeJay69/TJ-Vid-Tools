@@ -1,30 +1,30 @@
-# TJ-YT-Tools
-<img src="Logo.png" alt="TJ-YT-Tools Logo" width="120" height="120">
+# TJ-Vid-Tools
+<img src="Logo.png" alt="TJ-Vid-Tools Logo" width="120" height="120">
 
 
 ### APP WILL BE PUBLISHED SOON. PUBLICATION DATE IS IN THE NEXT FEW WEEKS
 
-TJ-YT-Tools is a Python-based toolkit designed to help YouTube channel managers streamline their workflow by automating routine tasks. With a focus on securely managing video metadata, this tool offers several powerful features to make channel management more efficient.
+TJ-Vid-Tools is a Python-based toolkit designed to help YouTube channel managers streamline their workflow by automating routine tasks. With a focus on securely managing video metadata, this tool offers several powerful features to make channel management more efficient.
 
 ## Key Features
 
-- **Bulk Editing:** Quickly update video titles and descriptions across your YouTube channel. Whether you need to rename a series or adjust details on multiple uploads, TJ-YT-Tools makes it fast and effortless.
+- **Bulk Editing:** Quickly update video titles and descriptions across your YouTube channel. Whether you need to rename a series or adjust details on multiple uploads, TJ-Vid-Tools makes it fast and effortless.
 - **Secure OAuth Integration:** Uses the `https://www.googleapis.com/auth/youtube.force-ssl` scope to ensure a secure connection with the YouTube Data API. This allows for safe retrieval and updates of video data, while protecting your account through industry-standard OAuth flows.
 - **Interface:** User-friendly GUI for a more interactive experience.  
 - **Python-Powered:** Built entirely in Python, making it easy to integrate, customize, and extend according to your channel’s needs.
 
 ## Overview
 
-TJ-YT-Tools automates key aspects of YouTube channel management, reducing the manual effort required to keep your channel up-to-date. Ideal for content creators and channel managers, the tool is designed to enhance productivity by streamlining the process of editing video information in bulk so you can focus more on creating content and less on administrative tasks.
+TJ-Vid-Tools automates key aspects of YouTube channel management, reducing the manual effort required to keep your channel up-to-date. Ideal for content creators and channel managers, the tool is designed to enhance productivity by streamlining the process of editing video information in bulk so you can focus more on creating content and less on administrative tasks.
 
 
-## Privacy Policy – TJ-YT-Tools
-[Privacy Policy](https://teejay69.github.io/TJ-YT-Tools/Privacy-Policy.html)
+## Privacy Policy – TJ-Vid-Tools
+[Privacy Policy](https://teejay69.github.io/TJ-Vid-Tools/Privacy-Policy.html)
 
-https://teejay69.github.io/TJ-YT-Tools/Privacy-Policy.html
+https://teejay69.github.io/TJ-Vid-Tools/Privacy-Policy.html
 
 
-This Privacy Policy explains how **TJ-YT-Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
+This Privacy Policy explains how **TJ-Vid-Tools** (“Application”, “we”, “us”, or “our”) processes personal data in compliance with the General Data Protection Regulation (GDPR) and applicable German data protection laws. Please read this document carefully.
 
 ## 1. Data Controller
 
